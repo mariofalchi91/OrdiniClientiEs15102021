@@ -1,0 +1,10 @@
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\GestioneOrdiniClienti\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\GestioneOrdiniClienti\bin\Debug\netstandard2.0\Core.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\GestioneOrdiniClienti\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\Core.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\GestioneOrdiniClienti\obj\Debug\netstandard2.0\Core.pdb

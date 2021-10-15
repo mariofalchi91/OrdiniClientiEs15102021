@@ -1,0 +1,13 @@
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\bin\Debug\netstandard2.0\EntityFramework.deps.json
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\bin\Debug\netstandard2.0\EntityFramework.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\bin\Debug\netstandard2.0\Core.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.csproj.AssemblyReference.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.AssemblyInfoInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.AssemblyInfo.cs
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.csproj.CopyComplete
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.pdb
