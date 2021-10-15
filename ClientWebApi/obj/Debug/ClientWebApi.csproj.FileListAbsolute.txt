@@ -1,0 +1,10 @@
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\ClientWebApi\bin\Debug\ClientWebApi.exe.config
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\ClientWebApi\bin\Debug\ClientWebApi.exe
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\ClientWebApi\bin\Debug\ClientWebApi.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\ClientWebApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\ClientWebApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\ClientWebApi\obj\Debug\ClientWebApi.csproj.AssemblyReference.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\ClientWebApi\obj\Debug\ClientWebApi.csproj.CoreCompileInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\ClientWebApi\obj\Debug\ClientWebApi.csproj.CopyComplete
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\ClientWebApi\obj\Debug\ClientWebApi.exe
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\GestioneOrdiniClienti\ClientWebApi\obj\Debug\ClientWebApi.pdb
